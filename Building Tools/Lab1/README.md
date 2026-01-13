@@ -25,7 +25,7 @@ $ gradle build
 
 ## step 4: Run the Appliction.
 ```bash
-$ java -jar build/libs/ivolve-app.jar
+$ java -jar ~/build/libs/ivolve-app.jar
 ```
 <img width="800" height="142" alt="image" src="https://github.com/user-attachments/assets/8ca10a0b-97b7-4616-a31e-2be7ef40bdc8" />
 
